@@ -1,0 +1,25 @@
+from funciones import registrar_aeronave, registrar_componente, consultar_mantenimiento
+
+def menu():
+    while True:
+        print("\n--- Menú Principal ---")
+        print("1. Registrar Aeronave")
+        print("2. Registrar Componente")
+        print("3. Consultar Mantenimiento")
+        print("4. Salir")
+
+        opcion = input("Seleccione una opción: ")
+
+        if opcion == '1':
+            registrar_aeronave()
+        elif opcion == '2':
+            registrar_componente()
+        elif opcion == '3':
+            consultar_mantenimiento()
+        elif opcion == '4':
+            print("Saliendo...")
+            break
+        else:
+            print("Opción inválida.")
+
+menu()
