@@ -1,0 +1,19 @@
+{
+    "aeronaves": [
+        {
+            "matricula": "HK-1234",
+            "modelo": "A320",
+            "horas_vuelo": 452.5
+        },
+        {
+            "matricula": "HK-0000",
+            "modelo": "ATR42",
+            "horas_vuelo": 127.0
+        },
+        {
+            "matricula": "HK-0000",
+            "modelo": "A30",
+            "horas_vuelo": 124.0
+        }
+    ]
+}
