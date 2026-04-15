@@ -1,0 +1,36 @@
+{
+    "HK-4532": {
+        "Motor 1": {
+            "horas_uso": 1520,
+            "limite_horas": 1500
+        },
+        "Hidraulica": {
+            "horas_uso": 1350,
+            "limite_horas": 1500
+        }
+    },
+    "HK-5678": {
+        "Compresor": {
+            "horas_uso": 2150,
+            "limite_horas": 2200
+        },
+        "Cilindro": {
+            "horas_uso": 1900,
+            "limite_horas": 2000
+        }
+    },
+    "HK-1234": {
+        "motor1": {
+            "horas_uso": 234.0,
+            "limite_horas": 250.0
+        },
+        "motor2": {
+            "horas_uso": 121.0,
+            "limite_horas": 250.0
+        },
+        "tren de nariz": {
+            "horas_uso": 342.0,
+            "limite_horas": 350.0
+        }
+    }
+}

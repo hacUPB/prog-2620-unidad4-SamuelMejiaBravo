@@ -1,0 +1,3 @@
+Profe muy honestamente no sé cómo hacer el diagrama estructural del sistema, yo puedo explicarlo pero realmente es tan enredado y lleno de opciones que se me dificulta mucho hacerlo.
+
+Diría que este programa es un pulo del que salen 8 tentáculos por cada uno que tenga. Tiene mil caminos con diferentes puntas todos conectados en una cabeza: el SRC. El SRC es sólo para ejecutar la función menú la cual ejecuta cualquiera de las otras funciones dependiendo de lo que se necesite. De esta forma, el programa no tiene que cargar todas las funciones cada que se inicializa y sólo ejecuta la que el usuario requiere, ayudando así a mantener un mejor balance y ahorro de los recursos del sistema. Lo demás, creo que se explica bien en README.md
